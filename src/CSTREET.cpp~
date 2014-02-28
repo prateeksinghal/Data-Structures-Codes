@@ -1,11 +1,3 @@
-/* This is the implementation of the Kruskal Algorithm
-   for finding the Minimum Spanning Tree in the undirected weigthed Graph
-   using the Disjoint Set Data Structure.
-	
-   SPOJ:http://www.spoj.com/problems/CSTREET/
-
-*/
-
 #include<iostream>
 #include<queue>
 #include<map>
