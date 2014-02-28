@@ -1,11 +1,3 @@
-/* This is the Implementation of Kruskal Algorithm to find the Minimum Spanning Tree in the undirected weighted graph 
-   using Disjoint Set Data Structure in C++.
-
-   SPOJ: http://www.spoj.com/problems/CSTREET/
-
-*/
-
-
 #include<iostream>
 #include<queue>
 #include<map>
